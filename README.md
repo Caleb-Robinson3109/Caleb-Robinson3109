@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Caleb-Robinson3109
-- 👀 I’m interested in computer science, learngin russian, and bowling
-- 🌱 I’m currently learning C++, and discrete maths
+- 👀 I’m interested in computer science, learning Russian, and bowling
+- 🌱 I’m currently learning SQL and Flutter
 - 📫 How to reach me email: calebrobinson3109@gmail.com
